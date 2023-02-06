@@ -1,0 +1,26 @@
+/*** TAG SELECTOR ***/
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin: 0;
+}
+
+button {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1, p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h1 {
+  font-size: 6rem;
+}
+
+p {
+  padding-bottom: 20px;
+}
+/*** CLASS SELECTOR ***/
+.background {
+  background-color: lightgray;
+}
